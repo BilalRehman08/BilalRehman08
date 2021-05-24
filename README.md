@@ -36,3 +36,24 @@ Hey Guys 👋, I'm Bilal Rehman, An undergradute Software Engineering student an
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+## &#x1f4c8; GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BilalRehman08&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BilalRehman08&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilalRehman08&theme=dracula"  width=60% />
+
+
+ 
+ <br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BilalRehman08&theme=react-dark&area=true&hide_border=true)
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BilalRehman08/count.svg" />
+</p>
