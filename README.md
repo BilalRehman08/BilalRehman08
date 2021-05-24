@@ -47,13 +47,4 @@ Hey Guys 👋, I'm Bilal Rehman, An undergradute Software Engineering student an
 
 
  
- <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BilalRehman08&theme=react-dark&area=true&hide_border=true)
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BilalRehman08/count.svg" />
-</p>
