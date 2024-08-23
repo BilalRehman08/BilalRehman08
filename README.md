@@ -7,5 +7,3 @@ For consultancy or collaboration inquiries, please contact me at codewithbilal08
 - [Medium Blog](https://medium.com/@bilalrehman08)
 
 ---
-
-Let’s build together!
