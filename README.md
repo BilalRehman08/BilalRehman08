@@ -1,5 +1,3 @@
-# Consulting Software Engineering
-
 ## Founder & SAAS Creator
 Transforming ideas into reality, I specialize in creating MVP & SaaS applications within just 30 days.
 
